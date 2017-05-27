@@ -1,0 +1,15 @@
+{
+  "name": "tak-cli",
+  "version": "1.0.0",
+  "description": "auto generate cli tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tool",
+    "tak"
+  ],
+  "author": "linyandi",
+  "license": "MIT"
+}
